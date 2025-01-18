@@ -2,12 +2,12 @@
 
 ## About Me
 
-I'm a Mechatronics Engineer who is passionate about Embedded Systems and Automation.
+I'm a Mechatronics Engineer who is passionate about Embedded Systems.
 
 - 🎓 Graduated from: Faculty of Engineering (Mechatronics Department) - Assiut University.
 - 🌟 Ranked: Third in my class.
-- 👷️ Currently working as a Maintenance Engineer with a focus on electrical and mechanical systems.
-- 📚 Learning more about Embedded Systems, RTOS, FOTA, and ADAS.
+- 👷️ Former ITI trainee, focusing on Embedded Systems.
+- 📚 Learning more about Microcontrollers, Embedded Software, RTOS, FOTA, and ADAS.
 - 📢 How to reach me: [LinkedIn](https://www.linkedin.com/in/your-profile) | [Gmail](mailto:your-email@gmail.com)
 
 ## Languages and Tools:
@@ -19,17 +19,15 @@ I'm a Mechatronics Engineer who is passionate about Embedded Systems and Automat
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![PLC](https://img.shields.io/badge/-PLC-00427E?style=flat-square&logo=siemens&logoColor=white)
-![SCADA](https://img.shields.io/badge/-SCADA-FF7F00?style=flat-square&logo=scada&logoColor=white)
 
 ## Visitors
 
-![Profile views](https://komarev.com/ghpvc/?username=your-github-username&color=blue&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=Abdallah-Ahmed11&color=blue&style=flat-square)
 
 ## Profile Stats
 
-![Abdullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Abdallah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdallah-Ahmed11&show_icons=true&theme=radical)
 
 ## Skyline
 
-![GitHub Skyline](https://github.com/your-github-username/your-github-username/blob/main/skyline.png)
+![GitHub Skyline](https://github.com/Abdallah-Ahmed11/Abdallah-Ahmed11/blob/main/skyline.png)
