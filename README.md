@@ -8,7 +8,7 @@ I'm a Mechatronics Engineer who is passionate about Embedded Systems.
 - 🌟 Ranked: Third in my class.
 - 👷️ Former ITI trainee, focusing on Embedded Systems.
 - 📚 Learning more about Microcontrollers, Embedded Software, RTOS, FOTA, and ADAS.
-- 📢 How to reach me: [LinkedIn](https://www.linkedin.com/in/your-profile) | [Gmail](mailto:your-email@gmail.com)
+- 📢 How to reach me: [LinkedIn](https://www.linkedin.com/in/abdallah-ahmed-5554a7260/) | [Gmail](mailto:abdallaahmed1492000@gmail.com)
 
 ## Languages and Tools:
 
